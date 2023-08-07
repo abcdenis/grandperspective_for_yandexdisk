@@ -1,3 +1,6 @@
+"""
+output file tested with Grand Perspective 2.5.3
+"""
 import argparse
 import dataclasses
 import json
